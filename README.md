@@ -1,4 +1,4 @@
-# Hi there, I'm Mateus! 👋
+# Hi there.
 
 ## About Me
 
@@ -46,10 +46,6 @@ I'm currently studying Computer Engineering at IFMT, diving deep into:
 - **[Aprendizado-PHP](https://github.com/mateus-s-a/Aprendizado-PHP)** - PHP learning activities
 - **[senac-frontend](https://github.com/mateus-s-a/senac-frontend)** - Frontend development projects
 
-## 📈 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mateus-s-a&theme=react-dark)
-
 ## 🤝 Connect with Me
 
 [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Spacery4)
@@ -70,7 +66,5 @@ I'm currently studying Computer Engineering at IFMT, diving deep into:
 - 🌱 Always eager to learn new technologies
 
 ---
-
-*"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mateus-s-a&color=brightgreen)
