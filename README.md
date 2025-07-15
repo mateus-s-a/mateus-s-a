@@ -1,5 +1,3 @@
-# Hi there.
-
 ## About Me
 
 🎓 **Computer Engineering Student** at IFMT (Instituto Federal de Mato Grosso)
