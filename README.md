@@ -1,8 +1,8 @@
 ## About Me
 
-🎓 **Computer Engineering Student** at IFMT (Instituto Federal de Mato Grosso)
+**Computer Engineering Student** at IFMT (Instituto Federal de Mato Grosso)
 
-## 🔭 Current Focus
+## Current Focus
 
 I'm currently studying Computer Engineering at IFMT, diving deep into:
 - Database Systems
@@ -11,7 +11,7 @@ I'm currently studying Computer Engineering at IFMT, diving deep into:
 - Operating Systems
 - etc.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -28,13 +28,13 @@ I'm currently studying Computer Engineering at IFMT, diving deep into:
 - **System Programming:** C
 - **Audio Processing:** JSFX
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateus-s-a&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-s-a&layout=compact&theme=radical)
 
-## 🌟 Featured Projects
+## Featured Projects
 
 - **[IFMT_Eng_Computacao](https://github.com/mateus-s-a/IFMT_Eng_Computacao)** - Academic sources materials organized by subject
 - **[report-generator-caregivers](https://github.com/mateus-s-a/6a592e85)** - Report generator for elderly caregivers
@@ -43,24 +43,17 @@ I'm currently studying Computer Engineering at IFMT, diving deep into:
 - **[Aprendizado-PHP](https://github.com/mateus-s-a/Aprendizado-PHP)** - PHP learning activities
 - **[senac-frontend](https://github.com/mateus-s-a/senac-frontend)** - Frontend development projects
 
-## 🤝 Connect with Me
+## Connect with Me
 
 [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Spacery4)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/spacery.bsky.social)
 
-## 🎯 Goals
+## Goals
 
-- 🚀 Expand my knowledge in software engineering
-- 🌐 Contribute to open-source projects
-- 💡 Develop innovative solutions in computer engineering
-- 📚 Share knowledge with the developer community
-
-## 💡 Fun Facts
-
-- 🔧 I enjoy working on diverse projects from web development to audio processing
-- 📊 My GitHub shows 322 contributions in the last year
-- 🎵 I work with JSFX for audio processing projects
-- 🌱 Always eager to learn new technologies
+- Expand my knowledge in software engineering
+- Contribute to open-source projects
+- Develop innovative solutions in computer engineering
+- Share knowledge with the developer community
 
 ---
 
