@@ -1,8 +1,6 @@
 ## About Me
 
 🎓 **Computer Engineering Student** at IFMT (Instituto Federal de Mato Grosso)
-📍 **Location:** Brazil
-👨‍💻 **Pronouns:** he/him
 
 ## 🔭 Current Focus
 
@@ -11,6 +9,7 @@ I'm currently studying Computer Engineering at IFMT, diving deep into:
 - Data Structures
 - Object-Oriented Programming (OOP)
 - Operating Systems
+- etc.
 
 ## 🛠️ Technologies & Tools
 
@@ -25,7 +24,7 @@ I'm currently studying Computer Engineering at IFMT, diving deep into:
 
 ### Development Focus
 - **Frontend Development:** HTML, JavaScript, TypeScript
-- **Backend Development:** PHP, Java
+- **Backend Development:** PHP, Java, Python
 - **System Programming:** C
 - **Audio Processing:** JSFX
 
@@ -37,7 +36,7 @@ I'm currently studying Computer Engineering at IFMT, diving deep into:
 
 ## 🌟 Featured Projects
 
-- **[IFMT_Eng_Computacao](https://github.com/mateus-s-a/IFMT_Eng_Computacao)** - Academic course materials organized by subject
+- **[IFMT_Eng_Computacao](https://github.com/mateus-s-a/IFMT_Eng_Computacao)** - Academic sources materials organized by subject
 - **[report-generator-caregivers](https://github.com/mateus-s-a/6a592e85)** - Report generator for elderly caregivers
 - **[Aprendizado-TypeScript](https://github.com/mateus-s-a/c0a3351c)** - TypeScript learning activities
 - **[MINI-Oscilloscope](https://github.com/mateus-s-a/MINI-Oscilloscope)** - Audio processing project in JSFX
