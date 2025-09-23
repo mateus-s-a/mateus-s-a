@@ -44,7 +44,6 @@ I'm currently studying Computer Engineering at IFMT, diving deep into:
 
 ## Connect with Me
 
-[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Spacery4)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/spacery.bsky.social)
 
 ## Goals
