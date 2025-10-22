@@ -37,9 +37,7 @@ I'm currently studying Computer Engineering at IFMT, diving deep into:
 
 - **[IFMT_Eng_Computacao](https://github.com/mateus-s-a/IFMT_Eng_Computacao)** - Academic sources materials organized by subject
 - **[report-generator-caregivers](https://github.com/mateus-s-a/6a592e85)** - Report generator for elderly caregivers
-- **[Aprendizado-TypeScript](https://github.com/mateus-s-a/c0a3351c)** - TypeScript learning activities
 - **[MINI-Oscilloscope](https://github.com/mateus-s-a/MINI-Oscilloscope)** - Audio processing project in JSFX
-- **[Aprendizado-PHP](https://github.com/mateus-s-a/Aprendizado-PHP)** - PHP learning activities
 - **[senac-frontend](https://github.com/mateus-s-a/senac-frontend)** - Frontend development projects
 
 ## Connect with Me
