@@ -9,6 +9,7 @@ I'm currently studying Computer Engineering at IFMT, diving deep into:
 - Data Structures
 - Object-Oriented Programming (OOP)
 - Operating Systems
+- Machine Learning / Data Mining / AI / Neural Network
 - etc.
 
 ## Technologies & Tools
